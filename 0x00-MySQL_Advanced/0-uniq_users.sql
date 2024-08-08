@@ -1,4 +1,4 @@
--- script that create a table users with this feilds:
+-- script that create a table users with this fields:
 -- id, email & name
 CREATE TABLE IF NOT EXISTS users (
     id int NOT NULL PRIMARY KEY AUTO_INCREMENT,
